@@ -45,6 +45,7 @@ function App() {
       
     }
     consultarAPI();
+    // eslint-disable-next-line
   }, [consultar])
 
   // Carga condicional de componente.
